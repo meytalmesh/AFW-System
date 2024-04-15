@@ -1,0 +1,14 @@
+{
+    "ruleID": "string",
+    "timeOfCreation": "string",
+    "affectedCells": [
+        "string"
+      ],
+    "action": "string",   
+    "objectsToModify": [
+      {
+        "cell": "string",
+        "objectID": "string"
+      }
+    ]
+}
